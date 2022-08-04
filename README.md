@@ -9,7 +9,7 @@
 ![Badge with LCO and ineuron tagged](https://img.shields.io/badge/Full%20Stack%20JavaScript%20bootcamp-Hitesh%20Choudhary-brightgreen)
 
 ### Concepts learned from this project:
-- Learned about how to use SVG images and positioning it on banner of the screen respective to screen viewport height.
+- Learned about how to use SVG images and positioning it on banner of the screen, respective to screen viewport height.
 
 ### Time taken to complete this project:
 - It took 2 hour to complete.
