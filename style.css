@@ -95,3 +95,54 @@ nav .nav-button {
 }
 
 /* banner section ends */
+
+/*media queries  */
+@media only screen and (max-width: 895px) {
+  .banner-container div img {
+    height: 350px;
+  }
+  .grow-list {
+    display: none;
+  }
+  div.button-group {
+    grid-column: 3/4;
+    text-align: center;
+  }
+  button.nav-button {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 790px) {
+  .banner-container div img {
+    height: 300px;
+  }
+}
+@media only screen and (max-width: 717px) {
+  .banner-container div img {
+    position: absolute;
+    height: 250px;
+    right: 5%;
+    left: 5%;
+    top: 7%;
+  }
+  .banner-container div:first-child {
+    position: absolute;
+    bottom: 0;
+    left: 8%;
+    right: 5%;
+  }
+}
+@media only screen and (max-width: 530px) {
+  .heading-text {
+    font-size: 30px;
+  }
+  .btn {
+    font-size: 18px;
+    padding: 3px 5px;
+    margin-bottom: 5%;
+  }
+  .button-group .nav-button {
+    font-size: 10px;
+    padding: 2px 5px;
+  }
+}
